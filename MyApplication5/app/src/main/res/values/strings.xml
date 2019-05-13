@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">actividades</string>
+    <string name="buttonretorno">volver</string>
+    <string name="buttonir">suscribirte</string>
+    <string name="buttontoast">toast</string>
+    <string name="hintnombre">Nombre</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="buttoncompartir">compartir</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
